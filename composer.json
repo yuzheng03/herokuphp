@@ -1,0 +1,14 @@
+{
+    "name" : "vendor_name/heroku",
+    "description" : "description",
+    "minimum-stability": "stable",
+    "license" : "proprietary",
+    "authors" : [
+        {
+            "name" : "Tan yu zheng",
+            "email" : "21012519@rp.edu.sg"
+        }
+    ],
+    "require" : {
+    }
+}
